@@ -1,0 +1,131 @@
+{
+  "assets/fonts/Pacifico-Regular.ttf": [
+    "assets/fonts/Pacifico-Regular.ttf"
+  ],
+  "assets/images/1.jpg": [
+    "assets/images/1.jpg"
+  ],
+  "assets/images/10.jpg": [
+    "assets/images/10.jpg"
+  ],
+  "assets/images/11.jpg": [
+    "assets/images/11.jpg"
+  ],
+  "assets/images/12.jpg": [
+    "assets/images/12.jpg"
+  ],
+  "assets/images/13.jpg": [
+    "assets/images/13.jpg"
+  ],
+  "assets/images/14.jpg": [
+    "assets/images/14.jpg"
+  ],
+  "assets/images/15.jpg": [
+    "assets/images/15.jpg"
+  ],
+  "assets/images/16.jpg": [
+    "assets/images/16.jpg"
+  ],
+  "assets/images/2.jpg": [
+    "assets/images/2.jpg"
+  ],
+  "assets/images/3.jpg": [
+    "assets/images/3.jpg"
+  ],
+  "assets/images/4.jpg": [
+    "assets/images/4.jpg"
+  ],
+  "assets/images/5.jpg": [
+    "assets/images/5.jpg"
+  ],
+  "assets/images/6.jpg": [
+    "assets/images/6.jpg"
+  ],
+  "assets/images/7.jpg": [
+    "assets/images/7.jpg"
+  ],
+  "assets/images/8.jpg": [
+    "assets/images/8.jpg"
+  ],
+  "assets/images/9.jpg": [
+    "assets/images/9.jpg"
+  ],
+  "assets/images/Comment.png": [
+    "assets/images/Comment.png"
+  ],
+  "assets/images/Instagram-Logo.png": [
+    "assets/images/Instagram-Logo.png"
+  ],
+  "assets/images/SSR.jpg": [
+    "assets/images/SSR.jpg"
+  ],
+  "assets/images/Screenshot_2021-07-22-17-25-20-40_6c892c42c751c58e81c3e50bc43f1eeb.jpg": [
+    "assets/images/Screenshot_2021-07-22-17-25-20-40_6c892c42c751c58e81c3e50bc43f1eeb.jpg"
+  ],
+  "assets/images/Spl.png": [
+    "assets/images/Spl.png"
+  ],
+  "assets/images/cloud.png": [
+    "assets/images/cloud.png"
+  ],
+  "assets/images/cloud1.png": [
+    "assets/images/cloud1.png"
+  ],
+  "assets/images/email.png": [
+    "assets/images/email.png"
+  ],
+  "assets/images/facebook.png": [
+    "assets/images/facebook.png"
+  ],
+  "assets/images/flag.png": [
+    "assets/images/flag.png"
+  ],
+  "assets/images/flutter1.png": [
+    "assets/images/flutter1.png"
+  ],
+  "assets/images/from.png": [
+    "assets/images/from.png"
+  ],
+  "assets/images/google.png": [
+    "assets/images/google.png"
+  ],
+  "assets/images/ig.png": [
+    "assets/images/ig.png"
+  ],
+  "assets/images/ig1.png": [
+    "assets/images/ig1.png"
+  ],
+  "assets/images/like.png": [
+    "assets/images/like.png"
+  ],
+  "assets/images/log.png": [
+    "assets/images/log.png"
+  ],
+  "assets/images/login.png": [
+    "assets/images/login.png"
+  ],
+  "assets/images/send.png": [
+    "assets/images/send.png"
+  ],
+  "assets/images/sun.png": [
+    "assets/images/sun.png"
+  ],
+  "assets/images/sun1.png": [
+    "assets/images/sun1.png"
+  ],
+  "assets/images/sunny.png": [
+    "assets/images/sunny.png"
+  ],
+  "assets/images/weather.png": [
+    "assets/images/weather.png"
+  ],
+  "assets/images/zomato.png": [
+    "assets/images/zomato.png"
+  ],
+  "assets/images/zomato1.png": [
+    "assets/images/zomato1.png"
+  ],
+  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+  ]
+}
