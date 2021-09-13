@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Practise extends StatefulWidget {
-  const Practise({Key? key}) : super(key: key);
+class DemoTabBar extends StatefulWidget {
+  const DemoTabBar({Key? key}) : super(key: key);
 
   @override
-  _PractiseState createState() => _PractiseState();
+  _DemoTabBarState createState() => _DemoTabBarState();
 }
 
-class _PractiseState extends State<Practise> {
+class _DemoTabBarState extends State<DemoTabBar> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(

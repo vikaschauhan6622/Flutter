@@ -1,4 +1,3 @@
-import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
@@ -21,7 +20,8 @@ class _NWState extends State<NW> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: WebView(
-        initialUrl: 'https://www.excelptp.com/',
+        allowsInlineMediaPlayback: true,
+        initialUrl: 'https://govtcareerjob.blogspot.com/',
       ),
     );
   }

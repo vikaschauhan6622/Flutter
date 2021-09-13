@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:new_practise/Widget/demo.dart';
+import 'package:new_practise/Practise/demo.dart';
 
 class TaskThree extends StatefulWidget {
   const TaskThree({Key? key}) : super(key: key);

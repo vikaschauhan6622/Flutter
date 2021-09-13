@@ -2,19 +2,19 @@ import 'package:flutter/material.dart';
 
 
 
-class MyHomePage extends StatefulWidget {
+class DemoToolTip extends StatefulWidget {
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _DemoToolTipState createState() => _DemoToolTipState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _DemoToolTipState extends State<DemoToolTip> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
         child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children:<Widget>[
+            children: <Widget>[
               Container(
                 margin: EdgeInsets.all(10),
                 child: Tooltip(
