@@ -8,7 +8,7 @@ class PractiseOne extends StatefulWidget {
   @override
   _PractiseOneState createState() => _PractiseOneState();
 }
-
+// --debug option to get more log output. Run with --scan
 class _PractiseOneState extends State<PractiseOne> {
   @override
   Widget build(BuildContext context) {

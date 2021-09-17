@@ -25,7 +25,7 @@ class _DemoApiState extends State<DemoApi> {
     return SafeArea(
       child: Scaffold(
           appBar: AppBar(
-            backgroundColor: Colors.grey,
+            backgroundColor: Colors.blueGrey,
             title: Text("Post Office Locator"),
             centerTitle: true,
           ),
@@ -96,7 +96,7 @@ class _DemoApiState extends State<DemoApi> {
                     },
                   ),
                   Container(
-                    padding: EdgeInsets.only(top: 20, left: 20, right: 20),
+                    padding: EdgeInsets.only(top: 200, left: 20, right: 20),
                     child: TextFormField(
                       keyboardType: TextInputType.number,
                       controller: ctrl,

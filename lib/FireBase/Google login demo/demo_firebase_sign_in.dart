@@ -20,8 +20,8 @@ class _DemoSigninState extends State<DemoSignin> {
             ? Column(
           children: [
             // Image.network(_userObj.photoUrl),
-            // Text(_userObj.displayName),
-            Text(_userObj.email),
+                  //  Text(_userObj.displayName),
+                  Text(_userObj.email),
             TextButton(
                 onPressed: () {
                   _googleSignIn.signOut().then((value) {

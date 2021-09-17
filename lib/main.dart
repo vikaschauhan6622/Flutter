@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'Projects/Demo API/demo_api.dart';
+import 'package:new_practise/Projects/Demo%20API/api_splash.dart';
 
 void main() => runApp(const MyApp());
 
@@ -9,8 +8,8 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, home: DemoApi()
-        // home: DemoHomeAPI(),
+    return MaterialApp(debugShowCheckedModeBanner: false, home: SplashScreen()
+        // home: PractiseOne(),
         // home: DemoAnalog(),
         );
   }

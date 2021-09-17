@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger version="3">
+    <dataSet config="com.jakewharton.threetenabp:threetenabp:1.2.3"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source
+            path="C:\Users\HP\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\assets">
+            <file name="org/threeten/bp/TZDB.dat"
+                path="C:\Users\HP\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\assets\org\threeten\bp\TZDB.dat" />
+        </source>
+    </dataSet>
     <dataSet config=":google_sign_in"
         ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
         <source
@@ -18,6 +26,16 @@
         <source
             path="D:\new_practise\build\webview_flutter\intermediates\library_assets\debug\out" />
     </dataSet>
+    <dataSet config=":flutter_local_notifications"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source
+            path="D:\new_practise\build\flutter_local_notifications\intermediates\library_assets\debug\out" />
+    </dataSet>
+    <dataSet config=":flutter_facebook_login"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source
+            path="D:\new_practise\build\flutter_facebook_login\intermediates\library_assets\debug\out" />
+    </dataSet>
     <dataSet config=":video_player"
         ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
         <source path="D:\new_practise\build\video_player\intermediates\library_assets\debug\out" />
@@ -26,6 +44,11 @@
         ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
         <source
             path="D:\new_practise\build\shared_preferences\intermediates\library_assets\debug\out" />
+    </dataSet>
+    <dataSet config=":geolocator_android"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source
+            path="D:\new_practise\build\geolocator_android\intermediates\library_assets\debug\out" />
     </dataSet>
     <dataSet config=":analog_clock"
         ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
