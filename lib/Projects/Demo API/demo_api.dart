@@ -158,7 +158,6 @@ class _DemoApiState extends State<DemoApi> {
   }
 
   onNotificationLoad() async {
-    //  SharedPreferences prefs = await SharedPreferences.getInstance();
 
     {
       var response = await https.get(

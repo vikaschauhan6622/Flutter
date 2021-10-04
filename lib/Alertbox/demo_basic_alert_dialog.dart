@@ -5,7 +5,7 @@ class MyAlert extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.all(20.0),
-      child: RaisedButton(
+      child: ElevatedButton(
         child: Text('Show alert'),
         onPressed: () {
           showAlertDialog(context);
@@ -17,7 +17,7 @@ class MyAlert extends StatelessWidget {
 
 showAlertDialog(BuildContext context) {
   // Create button
-  Widget okButton = FlatButton(
+  Widget okButton = ElevatedButton(
     child: Text("OK"),
     onPressed: () {
       Navigator.of(context).pop();

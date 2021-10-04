@@ -1,6 +1,6 @@
 // import 'package:flutter/material.dart';
-// import 'package:new_practise/FireBase%20Login/Original%20Login/login_page.dart';
-// import 'package:new_practise/FireBase%20Login/Original%20Login/signin.dart';
+// import 'package:new_practise/FireBase/Original%20Login/login_page.dart';
+// import 'package:new_practise/FireBase/Original%20Login/signin.dart';
 //
 //
 // class FirstScreen extends StatelessWidget {

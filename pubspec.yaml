@@ -30,7 +30,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   table_calendar: ^2.2.1
-  shared_preferences: ^0.5.4+5
+  shared_preferences: ^2.0.7
   responsive_framework: ^0.1.4
   sizer: ^2.0.13
   flutter_rating_bar: ^4.0.0
@@ -45,7 +45,7 @@ dependencies:
   geolocator: ^7.6.0
   # flutter_polyline_points: ^1.0.0
   flutter_facebook_login: ^3.0.0
-  #  firebase_core: ^1.6.0
+  firebase_core: ^1.6.0
   #  firebase_auth: ^3.1.1
   search_page: ^2.0.0+1
   material_floating_search_bar: ^0.3.4
@@ -65,11 +65,24 @@ dependencies:
   responsive_text_field: ^0.1.4
   page_transition: ^2.0.2
   animated_splash: ^1.0.0
-  #  firebase_messaging: ^10.0.7
+  firebase_messaging: ^10.0.7
   overlay_support: ^1.2.1
   flutter_local_notifications: ^8.2.0
   #  cloud_firestore: ^2.5.2
-  http: ^0.12.2
+  http: ^0.13.3
+  provider: ^6.0.0
+  flutter_colorpicker: ^0.6.0
+  get: ^4.3.8
+  #  shared_preferences: ^2.0.8
+  #  cubit: ^0.1.2
+  #  flutter_cubit: ^0.1.0
+  replay_cubit: ^0.2.0
+  flutter_riverpod: ^0.5.1
+  flutter_redux: ^0.7.0
+  cloud_firestore: ^2.5.3
+  sqflite: ^2.0.0+4
+  #  path_provider: ^2.0.5
+  uuid: ^3.0.4
 
 
 

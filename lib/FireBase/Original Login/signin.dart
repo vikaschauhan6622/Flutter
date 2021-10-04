@@ -14,7 +14,7 @@
 //
 //   final GoogleSignInAccount? googleSignInAccount = await googleSignIn.signIn();
 //   final GoogleSignInAuthentication googleSignInAuthentication =
-//   await googleSignInAccount!.authentication;
+//       await googleSignInAccount!.authentication;
 //
 //   final AuthCredential credential = GoogleAuthProvider.credential(
 //     accessToken: googleSignInAuthentication.accessToken,
@@ -23,7 +23,7 @@
 //   print('auth Tokan$credential');
 //
 //   final UserCredential authResult =
-//   await _auth.signInWithCredential(credential);
+//       await _auth.signInWithCredential(credential);
 //   final User? user = authResult.user;
 //
 //   if (user != null) {
